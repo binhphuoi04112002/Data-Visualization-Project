@@ -10,6 +10,6 @@ Go to Terminal. Run the flight_details.py file by putting `python flight_details
 
 ### III. References
 
-[Plotly Python Graphing Library](https://plotly.com/python/)
-[Data Visualization Course](https://www.coursera.org/learn/python-for-data-visualization)
-[Dash Python User Guide](https://dash.plotly.com/)
+- [Plotly Python Graphing Library](https://plotly.com/python/)
+- [Data Visualization Course](https://www.coursera.org/learn/python-for-data-visualization)
+- [Dash Python User Guide](https://dash.plotly.com/)
