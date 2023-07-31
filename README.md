@@ -2,7 +2,7 @@
 --------------------------------------------------------------------
 ### I. Overview
 
-This is the project that I used to learn data visualization. The project consists of a website that holds several visualizations of the dataset stored in airline_data.csv.
+This is the project that I used to learn data visualization. The project consists of a website that holds several visualizations of the dataset stored in airline_data.csv. There is a screenshot of the website attached.
 
 ### II. Instruction
 
